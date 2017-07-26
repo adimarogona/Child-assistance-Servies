@@ -1,2 +1,21 @@
-fghjkl
-bkjhkj
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Want to ask us a question? Type it below!</p>
+
+<form id="myForm" action="/action_page.php">
+  Ask a question: <input type="text" name="question"><br><br>
+  Name: <input type="text" name="flname"><br>
+  Your email: <input type="text" name="mail"><br><br>
+  <input type="button" onclick="myFunction()" value="Submit question">
+</form>
+
+<script>
+function myFunction() {
+    document.getElementById("myForm").submit();
+}
+</script>
+
+</body>
+</html>
