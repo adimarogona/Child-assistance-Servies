@@ -1,2 +1,42 @@
-fghjkl
-bkjhkj
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #40bcd8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #011627;
+}
+
+
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">What is abuse?</a></li>
+  <li><a href="#news">How do I help?</a></li>
+  <li><a href="#contact">Questions</a></li>
+  <li><a href="#about">Contact</a></li>
+</ul>
+
+</body>
+</html>
