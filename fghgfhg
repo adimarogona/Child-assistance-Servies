@@ -21,7 +21,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
+<}
 
 li a:hover:not(.active) {
     background-color: #011627;
@@ -67,6 +67,7 @@ function myFunction() {
 <h4> What if I don't want to hurt my families feelings?</h4>
 
 <h4> Where is child abuse most common?</h4>
+<p> Child abuse is most common in high-income countries. The most common form of child abuse is psychological abuse. </p>
 
 <h4> Is the abuse my fault?</h4>
 
