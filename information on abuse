@@ -31,30 +31,60 @@ h1 {
     text-align: center;
     font-family: Verdana;
 }
-div.topics {
+div.abuse {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color:#011627;
     background-color: #97DB4F;
-    color: white;
-    margin: 20px 0 20px 0;
-    padding: 20px;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
 }
     
 </style>
 </head>
 <body>
+<div class="abuse">
+<header>
 <h1>What is abuse?</h1>    
-    
+</header>    
 <ul>
   <li><a href="#home">What is abuse?</a></li>
   <li><a href="#news">How do I help?</a></li>
   <li><a href="#contact">Questions</a></li>
   <li><a href="#about">Contact</a></li>
 </ul>
-<div class="topics">
+<article>
 <h1 style="color:#011627;"> Child Neglect</h1> 
 <p style="color:#011627"> If a child is being neglected of love from their parents love then it is a form of child abuse. Child nelgect happens when parents dont pay attention to their childrens need of love or medical attention. Most kids in neglection lack the love and attention from their parents and resort to a house of anger and resentment. If a parent ignores their childrens medical needs and decides to give their full attention to themselves, it makes the kid believe they are worth nothing. Leaving their child alone or with a stranger is also a form of chil nelgect because the child feels unwanted and unloved. </p> 
-</div>
-
-<div class="topics">
+</article>
+<article>
 <h1 style="color:#011627;"> <mark> Mental and Emotional Abuse </mark> </h1> 
 <p style="color: #011627;"> Involves regular patters of verbal offense, threatning, bullying, and constant criticism. It may also involve 
 intimidation of any way, shaming, and also the need to control or manipulate in a more subtle way. Emotional abuse involves the need to 
@@ -67,11 +97,13 @@ anger in terrible ways usually because they do not have good coping mechanisms. 
     <li style="color:#011627;"> NPD Narcissistic personality disorder</li>
     <li style="color:#011627;"> ASPD Antisocial personality disorder</li>
 </ol> 
-</div>
-
-<div class="topics">
+</article>
+<article>
 <h1 style="color:#011627;"> <mark> Physical Abuse </mark></h1> 
 <p style="color: #011627;"> Physical abuse in a child can result in a number of ways. For example, a kid can have constant bruising or mark all throughout their body. Most of the time there may be excuses as to why they may have a mark like being clumsy. Also, the excuse may not always connect with the description. Physical abuse may be a turn out of a parent's lash of anger precisley targetting someone weaker like their child. A child may not always come out with the truth as to what is happening because they are either afraid of their parents. afraid to get their parent taken away, scared of being seperated, etc. It is best to look out for these signs and try to let  a child explain their situation through open ended questions. </p> 
+</article>
+
+<footer> Learn about the different types of abuse </footer>
 </div>
 </body>
 </html>
