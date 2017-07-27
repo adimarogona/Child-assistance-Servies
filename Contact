@@ -46,7 +46,7 @@ h1 {
   <li><a href="#contact">Questions</a></li>
   <li><a href="#about">Contact</a></li>
 </ul>
-<div id="" class="tabcontent">
+<div id="Contact" class="tabcontent">
   <h2>Contact us if you need:</h2>
   <ul> 
     <li>Support</li>
