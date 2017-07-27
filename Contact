@@ -46,14 +46,17 @@ h1 {
   <li><a href="#contact">Questions</a></li>
   <li><a href="#about">Contact</a></li>
 </ul>
-<h2>Contact us if you need:</h2>
+<div id="" class="tabcontent">
+  <h2>Contact us if you need:</h2>
   <ul> 
     <li>Support</li>
   </ul>
   <ul>
     <li>Help</li>
   </ul>  
-<p> Email: childassistanceservices@gmail.com</p>
+  <p> Email: childassistanceservices@gmail.com</p>
+  <span onclick="this.parentElement.style.display='none'">x</span> 
+</div>
     
 </body>
 </html>
