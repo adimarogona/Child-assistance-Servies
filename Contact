@@ -47,14 +47,15 @@ h1 {
   <li><a href="#about">Contact</a></li>
 </ul>
 <div id="Contact" class="tabcontent">
-  <h2>Contact us if you need:</h2>
+   <p> Email: childassistanceservices@gmail.com</p>
+   <h2>Contact us if you need:</h2>
   <ul> 
     <li>Support</li>
   </ul>
   <ul>
     <li>Help</li>
   </ul>  
-  <p> Email: childassistanceservices@gmail.com</p>
+ 
 </div>
     
 </body>
