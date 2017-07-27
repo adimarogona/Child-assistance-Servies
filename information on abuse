@@ -41,7 +41,7 @@ div.topics {
 </style>
 </head>
 <body>
-<h1> Child Asistance Services </h1>    
+<h1><mark> Child Asistance Services </mark></h1>    
     
 <ul>
   <li><a href="#home">What is abuse?</a></li>
@@ -55,7 +55,7 @@ div.topics {
 </div>
 
 <div class="topics">
-<h1 style="color:#011627;"> Mental and Emotional Abuse </h1> 
+<h1 style="color:#011627;"> <mark> Mental and Emotional Abuse </mark> </h1> 
 <p style="color: #011627;"> Involves regular patters of verbal offense, threatning, bullying, and constant criticism. It may also involve 
 intimidation of any way, shaming, and also the need to control or manipulate in a more subtle way. Emotional abuse involves the need to 
 control someone or dominate a certain person usually because of their childhood events. Traumatic or childhood problems can follow them 
@@ -70,7 +70,7 @@ anger in terrible ways usually because they do not have good coping mechanisms. 
 </div>
 
 <div class="topics">
-<h1 style="color:#011627;"> Physical Abuse </h1> 
+<h1 style="color:#011627;"> <mark> Physical Abuse </mark></h1> 
 <p style="color: #011627;"> Physical abuse in a child can result in a number of ways. For example, a kid can have constant bruising or mark all throughout their body. Most of the time there may be excuses as to why they may have a mark like being clumsy. Also, the excuse may not always connect with the description. Physical abuse may be a turn out of a parent's lash of anger precisley targetting someone weaker like their child. A child may not always come out with the truth as to what is happening because they are either afraid of their parents. afraid to get their parent taken away, scared of being seperated, etc. It is best to look out for these signs and try to let  a child explain their situation through open ended questions. </p> 
 </div>
 </body>
