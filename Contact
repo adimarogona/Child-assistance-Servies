@@ -3,7 +3,7 @@
 <head>
 <title>Child Assistance Services</title>
 <style>
-ul {
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -40,7 +40,7 @@ h1 {
 
 <h1> Child Asistance Services </h1>    
     
-<ul>
+<ul class="navbar">
   <li><a href="#home">What is abuse?</a></li>
   <li><a href="#news">How do I help?</a></li>
   <li><a href="#contact">Questions</a></li>
