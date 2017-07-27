@@ -22,7 +22,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 <}
-
+<
 li a:hover:not(.active) {
     background-color: #011627;
 }
@@ -40,11 +40,13 @@ h1 {
 <h1> Child Asistance Services </h1>
 
 <ul>
+  <li><a href="#home">Home</a></li>
   <li><a href="#home">What is abuse?</a></li>
   <li><a href="#news">How do I help?</a></li>
   <li><a href="#contact">Questions</a></li>
   <li><a href="#about">Contact</a></li>
 </ul>
+<br>
 
 <p>Want to ask us a question? Type it below!</p>
 
@@ -61,7 +63,7 @@ function myFunction() {
 }
 </script>
 
-
+<br>
 <h4> What should I do if I'm too afraid to speak up?</h4>
 <p>If you are too afraid to speak up things will not get better. Have a trusted person speak up for you so you can be happier. </p>
 
