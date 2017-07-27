@@ -10,7 +10,7 @@
     overflow: hidden;
     background-color: #40bcd8;
 }
-.email{
+#email{
 height:100px;
 width:250px;
 background-color:blue;
@@ -51,7 +51,7 @@ h1 {
   <li><a href="#about">Contact</a></li>
 </ul>
 <div id="Contact" class="tabcontent">
-<div class="email">
+<div id="email">
     <h1><a href=https://mail.google.com/mail/u/2/#inbox?compose=new> childassistanceservices@gmail.com</a></h1>    
     </div>
    <h2>Contact us if you need:</h2>
