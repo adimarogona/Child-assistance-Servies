@@ -2,7 +2,7 @@
 <html>
 <head>
 <title> What is abuse?</title>
-</head>
+
 <style>
 ul {
     list-style-type: none;
@@ -33,16 +33,24 @@ h1 {
     text-align: center;
     font-family: Verdana;
 }
-
+div.topics {
+    background-color: #97DB4F;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
     
 </style>
+</head>
 <body>
-
-<h1 style="color:red;"> Child Neglect</h1> 
+<div class="topics">
+<h1 style="color:#011627;"> Child Neglect</h1> 
 <p style="color:#011627 Dark blue "> If a child is being neglected of love from their parents love then it is a form of child abuse. Child nelgect happens when parents dont pay attention to their childrens need of love or medical attention. Most kids in neglection lack the love and attention from their parents and resort to a house of anger and resentment. If a parent ignores their childrens medical needs and decides to give their full attention to themselves, it makes the kid believe they are worth nothing. Leaving their child alone or with a stranger is also a form of chil nelgect because the child feels unwanted and unloved. </p> 
+</div>
 
-<h1> Mental and Emotional Abuse </h1> 
-<p> Involves regular patters of verbal offense, threatning, bullying, and constant criticism. It may also involve 
+<div class="topics">
+<h1 style="color:#011627;"> Mental and Emotional Abuse </h1> 
+<p style="color: #011627;"> Involves regular patters of verbal offense, threatning, bullying, and constant criticism. It may also involve 
 intimidation of any way, shaming, and also the need to control or manipulate in a more subtle way. Emotional abuse involves the need to 
 control someone or dominate a certain person usually because of their childhood events. Traumatic or childhood problems can follow them 
 al throughtout hteir life and show up when they are in a relationship or have kids or even with friends and family. The abuser may hold 
@@ -53,9 +61,11 @@ anger in terrible ways usually because they do not have good coping mechanisms. 
 <li> NPD (Narcissistic personality disorder)- Being extremely self-involved and finding no flaw in oneself. </li>
 <li> ASPD (Antisocial personality disorder)- They are unable to sustain a relationship and are unintrested in people and prefer to be alone. </li>
 </ul> 
+</div>
 
-<h1> Physical Abuse </h1> 
-<p> Physical abuse in a child can result in a number of ways. For example, a kid can have constant bruising or mark all throughout their body. Most of the time there may be excuses as to why they may have a mark like being clumsy. Also, the excuse may not always connect with the description. Physical abuse may be a turn out of a parent's lash of anger precisley targetting someone weaker like their child. A child may not always come out with the truth as to what is happening because they are either afraid of their parents. afraid to get their parent taken away, scared of being seperated, etc. It is best to look out for these signs and try to let  a child explain their situation through open ended questions. </p> 
-
+<div class="topics">
+<h1 style="color:#011627;"> Physical Abuse </h1> 
+<p style="color: #011627;"> Physical abuse in a child can result in a number of ways. For example, a kid can have constant bruising or mark all throughout their body. Most of the time there may be excuses as to why they may have a mark like being clumsy. Also, the excuse may not always connect with the description. Physical abuse may be a turn out of a parent's lash of anger precisley targetting someone weaker like their child. A child may not always come out with the truth as to what is happening because they are either afraid of their parents. afraid to get their parent taken away, scared of being seperated, etc. It is best to look out for these signs and try to let  a child explain their situation through open ended questions. </p> 
+</div>
 </body>
 </html>
