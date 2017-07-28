@@ -1,8 +1,65 @@
-
+<!DOCTYPE html>
 <html>
 <head>
+<body style="background-color:#e6e6e6;">
+
+  <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
 <title>Child Assistance Services</title>
 <style>
+
+  .howdoihelp{
+    background-color:#011627;
+  }
+  p{
+    font-family:'Bubblegum sans';
+    font-size:130%;
+    color:#011627;
+  }
+  li{
+    font-size:130%;
+    font-family:'Bubblegum sans';
+    color:#011627;
+  }
+  h3{
+    font-family: coiny;
+    font-size:200%;
+  }
+  
+
+  .resources {
+    border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    float:right;
+    width:450px;
+    height:550px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  
+  .signs{
+    border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    height:550px;
+    width:700px;
+    margin: 10px;
+    padding: 10px;
+    line-height:35px;
+    float:left;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+ 
+  }
+ 
 .stuff {
     list-style-type: none;
     margin: 0;
@@ -10,11 +67,15 @@
     overflow: hidden;
     background-color: #40bcd8;
 }
-  
-  .navbar {
+  .navbar{
+    color:#011627;
+  }
+  .navbar, .howdoihelp {
     float: left;
+    font-family:coiny;
+    
 }
-.navbar a {
+.navbar a, .howdoihelp a {
     display: block;
     color: white;
     text-align: center;
@@ -30,18 +91,44 @@
 h1 {
     color: #011627;
     text-align: center;
-    font-family: Verdana;
- 
-  .textstuff {
-    text-align:left;
-    height:200px;
-    width:200px;
-    position: absolute;
-    bottom:35%;
-    border: 4px solid green;
-    padding:5px;
+    font-family: coiny;
+    font-size:40px;
+  }
+  .precautions{
+    color:#011627 ;
+    line-height:35px;
+    border-width:15px;
+    background-color:#97DB4F;
+    margin:10px;
+    padding:10px;
+    float:right;
+    height:550px;
+    width:450px;
+    text-align: left;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  .communication{
+    color:#011627 ;
+    border-width:15px;
+    line-height:35px;
+    background-color: #97DB4F;
+    float:left;
+    height: 550px;
+    width:700px;
+    margin:10px;
+    padding:10px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
     
-  }   
+  }
+ 
+
+    
   
 </style>
 </head>
@@ -52,23 +139,47 @@ h1 {
   
 <ul class="stuff">
   <li class="navbar"><a href="#home">What is abuse?</a></li>
-  <li class="navbar"><a href="#news">How do I help?</a></li>
+  <li class="howdoihelp"><a href="#news">How do I help?</a></li>
   <li class="navbar"><a href="#contact">Questions</a></li>
   <li class="navbar"><a href="#about">Contact</a></li>
 </ul>
-<div class="topstuff">
-  <h2>How to help</h2>
-  </div>
-  <div class = "textstuff">
-    <p>If you know anyone that might be in danger of being abused, there are ways you can help. Report the situation as soon as possible to the authorities. Please keep in mind if you are putting the child in danger when trying to help. Communicate with the child clearly about the situation.</P>
+
+  
+  <div class="resources">
   <h3>here are some resources for at risk children</h3>
   <ul>
     <a href="https://www.cys-la.org/mediators-c1s45"> <img src="https://static.wixstatic.com/media/dca2de_0ee8520681964ab9846826e5e6fdcedb~mv2.png/v1/fill/w_176,h_176,al_c,usm_0.66_1.00_0.01/dca2de_0ee8520681964ab9846826e5e6fdcedb~mv2.png" alt="picture of cys logo"/> </a>
+    <a href="https://www.brightfutures4kids.org/">  <img src="https://www.brightfutures4kids.org/wp-content/themes/brightfuture4kids/images/logo.gif" alt="child abuse prevention center, specific to Orange County"/> </a>
+    <a href="http://preventchildabuse.org/"> <img src="http://preventchildabuse.org/wp-content/uploads/2016/05/pcaa-logo.png" alt="preventchildabuse.org"/></a>
+
+    </div>
+  <div class="signs">
+    <div id="signstitle">
+    <center><h3>signs of abuse</h3></center>
+    </div>
+   <ul>
+     <li> Withdrawal from friends or usual activities</li>
+     <li>Changes in behavior — such as aggression, anger, hostility or hyperactivity — or changes in school performance </li>
+     <li>Depression, anxiety or unusual fears or a sudden loss of self-confidence </li>
+     <li>An apparent lack of supervision </li>
+     <li>Frequent absences from school or reluctance to ride the school bus</li>
+     <li>Reluctance to leave school activities, as if he or she doesn't want to go home</li>
+     <li>Attempts at running away</li>
+     <li>Rebellious or defiant behavior</li>
+     <li>Attempts at suicide</li>
+     </div>
+    <div class="precautions">
+      <h3> precautions</h3>
+      <p>Make sure to keep calm and act carefully with the victim. Also keep in mind if what you do might potentially keep the child in a dangerous position. These situations are very tricky to navigate and you must be very careful to not upset the child or cause any damage.</p>
+
+    </div>
+
+  
     
   
+  <div class="communication">
   
-  
-  <h4>when communicating with the child keep in mind:</h4>
+  <h3>when communicating with the child keep in mind:</h3>
   <ul>
     <li>Offer a drink or snack to make them comfortable</li>
     <li>validate them and tell them you believe them</li>
@@ -77,6 +188,7 @@ h1 {
     <li>understand what the child wants from you</li>
     <li>use terminology the child will understand</li>
     <li>stay kind, calm, and collected</li>
+    </div>
   </div>
 </body>
 </html>
