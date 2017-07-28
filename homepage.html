@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 
+
 <html>
 
 <head>
@@ -12,75 +13,77 @@
 
 
 <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
-
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
 
 
 <style>
+   p{
+    font-family:'Bubblegum sans';
+    font-size:130%;
+    color:#011627;
+  }
+  li{
+    font-size:130%;
+    font-family:'Bubblegum sans';
+    color:#011627;
+  }
 .mySlides {display:none;}
 ul {
-
     list-style-type: none;
-
     margin: 0;
-
     padding: 0;
-
     overflow: hidden;
-
     background-color: #40bcd8;
-
 }
-
-
-
 li {
-
     float: left;
-
 }
-
-
-
 li a {
-
     display: block;
-
     color: white;
-
     text-align: center;
-
     padding: 14px 16px;
-
     text-decoration: none;
-
      font-family: "Coiny";
-
 }
-
-
-
 li a:hover:not(.active) {
-
     background-color: #011627;
-
 }
-
-
-
 h1 {
-
     color: #011627;
-
     text-align: center;
-
     font-family: "Coiny";
-
 }
-
-
-
-    
-
+  .resources{
+     border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    float:left;
+    width:600px;
+    height:550px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  .bleh{
+     border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    float:right;
+    width:600px;
+    height:550px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
 </style>
 
 </head>
@@ -105,6 +108,7 @@ h1 {
 
   <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact">Contact</a></li>
 
+  <li><a href="#">Disclaimer</a></li>
 </ul
 
     
@@ -115,11 +119,22 @@ h1 {
   <img class="mySlides" src="http://2.bp.blogspot.com/-T5kqWdFlMOc/UT2nUjplytI/AAAAAAAAH_4/tyZtroEd16I/s1600/funny+cute+animals-2013-00.jpg" style="width:100%">
   <img class="mySlides" src="http://4.bp.blogspot.com/-N0Mp-4V6xZM/UH_3rmZuNFI/AAAAAAAAlDI/wJNY9bNywGI/s1600/Cute+Animal+Pics+(10).jpg" style="width:100%">
 </div>
-
+<div class="title">
+  <h1>Resources!</h1>
+  <div class="resources">
+    <h2>Resources</h2>
+    
+    
+  </div>
+  <div class="bleh">
+    <h2> other stuff idk</h2>
+  
+  </div>
+  </div>
+  
 <script>
 var myIndex = 0;
 carousel();
-
 function carousel() {
     var i;
     var x = document.getElementsByClassName("mySlides");
