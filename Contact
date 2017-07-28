@@ -12,7 +12,7 @@
 }
 #email{
 height:50px;
-width:1250px;
+width:1290px;
 background-color:#97DB4F;
 }
 li {
