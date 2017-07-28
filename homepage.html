@@ -1,60 +1,142 @@
 <!DOCTYPE html>
 
 <html>
+
 <head>
+
 <title>Child Assistance Services</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 
 <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
 
+
+
 <style>
+.mySlides {display:none;}
 ul {
+
     list-style-type: none;
+
     margin: 0;
+
     padding: 0;
+
     overflow: hidden;
+
     background-color: #40bcd8;
+
 }
+
+
 
 li {
+
     float: left;
+
 }
+
+
 
 li a {
+
     display: block;
+
     color: white;
+
     text-align: center;
+
     padding: 14px 16px;
+
     text-decoration: none;
+
      font-family: "Coiny";
+
 }
+
+
 
 li a:hover:not(.active) {
+
     background-color: #011627;
+
 }
+
+
 
 h1 {
+
     color: #011627;
+
     text-align: center;
+
     font-family: "Coiny";
+
 }
 
+
+
     
+
 </style>
+
 </head>
+
 <body>
 
+
+
 <h1> Child Asistance Services </h1>    
-    
-<ul>
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/home-page/homepage.html">Home</a></li>
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/what-is-abuse-page/information%20on%20abuse">What is abuse?</a></li>
-  <li><a href="#">How do I help?</a></li>
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/questions-page/fghgfhg">Questions</a></li>
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact">Contact</a></li>
-</ul
+
     
 
+<ul>
+
+  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/home-page/homepage.html">Home</a></li>
+
+  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/what-is-abuse-page/information%20on%20abuse">What is abuse?</a></li>
+
+  <li><a href="#">How do I help?</a></li>
+
+  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/questions-page/fghgfhg">Questions</a></li>
+
+  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact">Contact</a></li>
+
+</ul
+
+    
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="http://1.bp.blogspot.com/-2pj2sYFb_No/VO_6UAfxJRI/AAAAAAAADoo/_dokhGkFhjY/s1600/cute-animal-dekstop-wallpaper-3147-wallpaper-computer-best.jpg" style="width:100%">
+  <img class="mySlides" src="http://2.bp.blogspot.com/-T5kqWdFlMOc/UT2nUjplytI/AAAAAAAAH_4/tyZtroEd16I/s1600/funny+cute+animals-2013-00.jpg" style="width:100%">
+  <img class="mySlides" src="http://4.bp.blogspot.com/-N0Mp-4V6xZM/UH_3rmZuNFI/AAAAAAAAlDI/wJNY9bNywGI/s1600/Cute+Animal+Pics+(10).jpg" style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+
+
    
+
 </body> 
+
 </html>
