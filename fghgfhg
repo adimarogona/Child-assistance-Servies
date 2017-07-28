@@ -1,4 +1,4 @@
-
+ 
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,7 +27,7 @@ li a:hover:not(.active) {
     background-color: #011627;
 }
 
-h1 {
+ h1 {
     color: black;
     text-align: left;
     font-family: Verdana;
@@ -51,7 +51,7 @@ h1 {
 <p>Want to ask us a question? Type it below!</p>
 
 <form id="myForm" action="/action_page.php">
-  Ask a question: <input type="text" name="question"><br><br>
+  Ask a question: <input type="text" name="question" style="width:400px; height:400px;" ><br><br>
   Name: <input type="text" name="flname"><br>
   Your email: <input type="text" name="mail"><br><br>
   <input type="button" onclick="myFunction()" value="Submit question">
