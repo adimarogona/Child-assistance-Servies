@@ -11,8 +11,9 @@
     background-color: #40bcd8;
 }
 #email{
-height:50px;
-width:1300px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 background-color:#97DB4F;
 }
 li {
