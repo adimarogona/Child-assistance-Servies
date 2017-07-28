@@ -46,14 +46,16 @@ h1 {
 <h1> Child Asistance Services </h1>    
     
 <ul class="navbar">
-  <li><a href="https://github.com/noodlestheturtle/Child-assistance-Servies/blob/what-is-abuse-page/information%20on%20abuse ">What is abuse?</a></li>
-  <li><a href="https://github.com/noodlestheturtle/Child-assistance-Servies/blob/how-to-help-page/Help ">How do I help?</a></li>
-  <li><a href="https://github.com/noodlestheturtle/Child-assistance-Servies/blob/questions-page/fghgfhg  ">Questions</a></li>
-  <li><a href="https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact#about">Contact</a></li>
+  <li><a href="#https://github.com/noodlestheturtle/Child-assistance-Servies/blob/what-is-abuse-page/information%20on%20abuse ">What is abuse?</a></li>
+  <li><a href="#https://github.com/noodlestheturtle/Child-assistance-Servies/blob/how-to-help-page/Help ">How do I help?</a></li>
+  <li><a href="#https://github.com/noodlestheturtle/Child-assistance-Servies/blob/questions-page/fghgfhg  ">Questions</a></li>
+  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact#about">Contact</a></li>
 </ul>
 <div id="Contact" class="tabcontent">
 <h2 style=text-align:center;> “Childhood should be carefree, playing in the sun; not living a nightmare in the darkness of the soul.” 
 ― Dave Pelzer, A Child Called "It"</h2>
+
+<img src="20170728_111704.jpg" alt="webpage creaters" style="width:304px;height:228px;">
 
 <h4 style=text-align:center;> Why did we choose to prevent child abuse? </h4>
 
