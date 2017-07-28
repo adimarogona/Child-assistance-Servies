@@ -1,1 +1,50 @@
-cwcwsdwedw
+<html>
+<head>
+<body style="background-color:#e6e6e6;">
+
+  <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
+<title>Child Assistance Services</title>
+<style>
+ .navbar{
+    color:#011627;
+  }
+  .navbar, .disclaimer {
+    float: left;
+    font-family:coiny;
+    
+}
+.navbar a, .disclaimer a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  .active{
+    background-color: black;
+  }
+.navbar a:hover:not(.active) {
+    background-color: #011627;
+}
+h1 {
+    color: #011627;
+    text-align: center;
+    font-family: coiny;
+    font-size:40px;
+  }
+  </style>
+  <body>
+  <h1> Child Asistance Services </h1>    
+
+  
+<ul class="stuff">
+  <li class="navbar"><a href="#home">What is abuse?</a></li>
+  <li class="navbar"><a href="#news">How do I help?</a></li>
+  <li class="navbar"><a href="#contact">Questions</a></li>
+  <li class="navbar"><a href="#about">Contact</a></li>
+  <li class="disclaimer"><a href="#disclaimer">disclaimer</a></li>
+</ul>
+<div class="stuff">
+<h2>We are not professionals and anything we have put in this website is from research. We don't actually know what we're doing</h2>
+
