@@ -51,7 +51,7 @@ li a:hover:not(.active) {
 <p>Want to ask us a question? Type it below!</p>
 
 <form id="myForm" action="/action_page.php">
-  Ask a question: Ask a question: <textarea name="paragraph_text" cols="50" rows="10"></textarea><br><br>
+  Ask a question: <textarea name="paragraph_text" cols="50" rows="10"></textarea><br><br>
   Name: <input type="text" name="flname"><br>
   Your email: <input type="text" name="mail"><br><br>
   <input type="button" onclick="myFunction()" value="Submit question">
@@ -68,7 +68,7 @@ function myFunction() {
 <p>If you are too afraid to speak up things will not get better. Have a trusted person speak up for you so you can be happier. </p>
 
 <h4> What if I don't want to hurt my families feelings?</h4>
-<p> Your safety is more important than your famlies feelings. They are hurting your feelings.
+<p> Your safety is more important than your famlies feelings. They are hurting your feelings.</p>
 
 <h4> Where is child abuse most common?</h4>
 <p> Child abuse is most common in high-income countries. The most common form of child abuse is psychological abuse. </p>
