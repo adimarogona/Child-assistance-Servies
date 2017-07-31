@@ -61,7 +61,7 @@ h1 {
     float:left;
     width:600px;
     height:980px;
-    text-align:center;
+t    text-align:center;
     margin:10px;
     padding:10px;
      border-top-style: dotted;
@@ -108,7 +108,7 @@ h1 {
 
   <li><a href="Contact.html">Contact</a></li>
 
-  <li><a href="Disclaimer">Disclaimer</a></li>
+  <li><a href="Disclaimer.html">Disclaimer</a></li>
 </ul
 
     
