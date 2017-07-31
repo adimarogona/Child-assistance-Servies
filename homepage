@@ -54,7 +54,7 @@ h1 {
     text-align: center;
     font-family: "Coiny";
 }
-h  .resources{
+    .resources{
      border-width:15px;
     color:#011627;
     background-color:#97DB4F;
