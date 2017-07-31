@@ -61,8 +61,8 @@ h  .resources{
     float:left;
     width:600px;
     height:980px;
-   text-align:center;
-   margin:10px;
+    text-align:center;
+    margin:10px;
     padding:10px;
      border-top-style: dotted;
     border-bottom-style: dotted;
