@@ -4,7 +4,7 @@
 <html>
 
 <head>
-<body style="gradient.jpg">
+
 <title>Child Assistance Services</title>
 
 
@@ -98,17 +98,17 @@ h1 {
 
 <ul>
 
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/home-page/homepage.html">Home</a></li>
+  <li><a href="homepage.html">Home</a></li>
 
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/what-is-abuse-page/information%20on%20abuse">What is abuse?</a></li>
+  <li><a href="infoabuse.html">What is abuse?</a></li>
 
-  <li><a href="#">How do I help?</a></li>
+  <li><a href="Help.html">How do I help?</a></li>
 
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/questions-page/fghgfhg">Questions</a></li>
+  <li><a href="questions.html">Questions</a></li>
 
-  <li><a href="#https://htmlpreview.github.io/?https://github.com/noodlestheturtle/Child-assistance-Servies/blob/contact-page/Contact">Contact</a></li>
+  <li><a href="Contact.html">Contact</a></li>
 
-  <li><a href="#">Disclaimer</a></li>
+  <li><a href="Disclaimer.html">Disclaimer</a></li>
 </ul
 
     
@@ -144,7 +144,7 @@ h1 {
   </div>
   <div class="bleh">
     <h2> Statistics </h2>
-    <img src="chart (1).png" alt="Reported Types of abuse " style="width:450px;height:408px;">
+    <img src="chart (1).png" alt="Reported Types of abuse " style="width:500px;height:408px;">
   <p>"Every child is innocent save them from the fear."</p>
   
   </div>
