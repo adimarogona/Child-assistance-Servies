@@ -1,0 +1,119 @@
+ 
+<!DOCTYPE html>
+
+<html>
+<head>
+  <body style="background-color:#e6e6e6;">
+
+  <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
+<style>
+  .style{
+    font-family:'bubblegum sans';
+   font-size:130%;
+    border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    text-align:center;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  #typeq{
+    width:500px;
+    
+  }
+  p{
+    font-size:130%;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #40bcd8;
+}
+
+li {
+    float: left;
+    font-family:'bubblegum sans';
+  font-size:130%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+<}
+<
+li a:hover:not(.active) {
+    background-color: #011627;
+}
+
+ h1 {
+    color:#011627 ;
+    text-align: center;
+    font-family: coiny;
+   font-size:40px;
+}
+
+</style>
+</head>
+<body>
+
+<h1> Child Asistance Services </h1>
+
+<ul>
+  <li><a href="homepage.html">Home</a></li>
+  <li><a href="infoabuse.html">What is abuse?</a></li>
+  <li><a href="Help.html">How do I help?</a></li>
+  <li><a href="questions.html">Questions</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+</ul>
+<br>
+  <center>
+  <div class="style" id="typeq">
+<p>Want to ask us a question? Type it below!</p>
+
+<form id="myForm">
+ <action="/action_page.php">
+  Ask a question: <textarea name="paragraph_text" cols="50" rows="10"></textarea><br><br>
+  Name: <input type="text" name="flname"><br>
+  Your email: <input type="text" name="mail"><br><br>
+  <input type="button" onclick="myFunction()" value="Submit question">
+</form>
+     </div>
+  </center>
+<script>
+function myFunction() {
+    document.getElementById("myForm").submit();
+}
+</script>
+
+<br><br>
+  <div class="style" id="afraid">
+<h4> What should I do if I'm too afraid to speak up?</h4>
+<p>If you are too afraid to speak up things will not get better. Have a trusted person speak up for you so you can be happier. </p>
+  
+<br>
+
+<h4> What if I don't want to hurt my families feelings?</h4>
+<p> Your safety is more important than your famlies feelings. They are hurting your feelings.</p>
+  
+  <br>
+
+<h4> Where is child abuse most common?</h4>
+<p> Child abuse is most common in high-income countries. The most common form of child abuse is psychological abuse. </p>
+
+  <br>
+
+<h4> Is the abuse my fault?</h4>
+<p> NO. The abuse is never your fault and you should never blame yourself. It is your abuser's fault that you get hurt. </p>
+    </div>
+<br>
+
+</body>
+</html>
