@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+tml>
+<head>
+  <body style="background-color:#e6e6e6;">
+  <link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
+<title>Child Assistance Services</title>
+<style>
+  #chloe{
+    
+  }
+  #joselin{
+    
+  }
+  #ariadne{
+
+   
+  }
+  #anilu{
+
+  }
+  h3{
+    font-family: "Bubblegum sans";
+      font-size:150%;
+
+  }
+  #why{
+    border-radius: 5px;
+    width:500px;
+    height:100px;
+    border-top-style: solid;
+    border-bottom-style:solid;
+    line-height: 100px;
+  }
+  p{
+    font-family:'coiny';
+    font-size:130%;
+    color:#011627;
+  }
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #40bcd8;
+}
+#email{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+background-color:#97DB4F;
+}
+li {
+    float: left;
+    font-family: bubblegum sans;
+    font-size:130%;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #011627;
+}
+h1 {
+    color: #011627;
+    text-align: center;
+    font-family:coiny ;
+    font-size: 40px;
+}
+   .style {
+    border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    text-align:center;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  .style2{
+ border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    text-align:center;
+     border-top-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+    border-left-style: solid;
+    width:1300px;
+  }
+  #email{
+    width:500px;
+    
+  }
+  #contact{
+    width:300px;
+  }
+  #bleh{
+     font-family:'bubblegum sans';
+  }
+</style>
+</head>
+<body>
+
+<h1> Child Asistance Services </h1>    
+    
+<ul class="navbar">
+  <li><a href="infoabuse.html">What is abuse?</a></li>
+  <li><a href="Help.html">How do I help?</a></li>
+  <li><a href="questions.html ">Questions</a></li>
+  <li><a href="Contact.html">Contact</a></li>
+</ul>
+<div id="Contact" class="tabcontent">
+<h2 id="bleh", class="style",style=text-align:center;> “Childhood should be carefree, playing in the sun; not living a nightmare in the darkness of the soul.” 
+― Dave Pelzer, A Child Called "It"</h2>
+<img src="20172807_204" alt="Hope" style="float:left;width:250px;height:250px;trsansformation:rotate(-45deg)">
+
+<img src="20172807_204" alt="Hope" style="float:right;width:250px;height:250px;trsansformation:rotate(45deg)">
+
+<center><img src="20170728_111704.jpg" alt="webpage creaters" style="width:304px;height:228px";></center>
+
+<center><h3 style=text-align:center; class="style" id="why"> Why did we choose to prevent child abuse? </h3></center>
+<br>
+<p class="style2" id="chloe">"I wanted to do a website for preventing child abuse because I care about children. I have a ten year old sister, I’m in a club that
+teaches children, and I coach a children’s soccer team. I believe all children should be able to live a life without anybody physically
+or emotionally hurting them. Especially the members of their family. Children should be able to focus on growing up instead of worrying
+if they are safe at home. I may not have any experiences of seeing child abuse, but I know it is a horrible thing that needs to stop."
+-Chloe</p>
+<br>
+
+  
+  <p class="style2" id="joselin">"For me, I wanted to specifically do child abuse because I have seen abuse in my family not only in children but also in women.
+Growing up, I saw my cousin getting abused by her father physically and emotionally. He would hit her for no reason and not just a slight
+touch it was anger beating he would make her bleed. He would also say that they were not his children and basically say things that no 
+little kid should listen or go through. I was terrified of her father for all the things I saw him do and never really processed it when 
+I was little I would only see it. My aunt was also extremely abused by her husband both emotionally and physically too. He would hit her 
+and everyday he would go out and hang out with women not caring for her and that made her fall in depression and suicidal thoughts. This
+is why I am so passionate on anti-abuse and helping families all around to prevent such things." -Joselin </p>
+<br>
+<p class="style2" id="Ariadne">"I want to do something that helps the community. I work a lot with children when I volunteer at the library and believe childhood is
+one of the most important parts in someone’s life and want to make sure as many children as possible are able to experience a good and he
+althy childhood. Just thinking of what some people do to their children makes me sad, sick, and angry. No child should ever have to deal
+with that. I hear many stories of child abuse and how there are parents beating children right in front of 
+hospitals with no shame. I never want to see or hear about this happening again but the sad truth is, unless I actively try to help, things 
+will not change. That is why I joined this project to try and do whatever I can to help."-Ariadne</p>
+<br>
+<p class="style2" id="anilu">"Child abuse has been a common issue all around the world and the children are the one that are often suffering because of the abuse
+they are suffering. I have always had a type of attachment for kids because they are really innocent and pure. They are vulnerable and 
+they are unable to protect themselves because they are young and always believe that kids would lie about stuff, but we need to be able
+to protect the kids. It’s really painful to hear that kids that just want and need love are being mistreated without a specific reason.
+I have younger family members and whenever I hear about those cases it breaks me in the inside and motivates me to find a way to stop all
+the aggression that is going against the children. I was a child once and I loved to play, but while growing up I kept noticing that there 
+are more kids that can’t have that happiness because they are suffering. This is a topic that people don’t want to touch, but they are 
+children that don’t deserve that pain that’s given to them for no reason. We need to be able to help them and show them that they are not 
+alone and that there are more people that want to protect them."-Anilu</p>
+    <br>
+   <center> <h2 class="style"style=text-align:center; id="contact">Contact us at:</h2>
+ <div  class="style"id="email">
+   
+   <h1><a href=https://mail.google.com/mail/u/3/#inbox?compose=new> childassistanceservices@gmail.com</a></h1>    
+    </div>
+</div>
+    
+</body>
+</html>
