@@ -1,1 +1,177 @@
 
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+
+<title>Child Assistance Services</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<link href='https://fonts.googleapis.com/css?family=Coiny' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bubblegum Sans' rel='stylesheet'>
+
+
+<style>
+   p{
+    font-family:'Bubblegum sans';
+    font-size:130%;
+    color:#011627;
+  }
+  li{
+    font-size:130%;
+    font-family:'Bubblegum sans';
+    color:#011627;
+  }
+.mySlides {display:none;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #40bcd8;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+     font-family: "Coiny";
+}
+li a:hover:not(.active) {
+    background-color: #011627;
+}
+h1 {
+    color: #011627;
+    text-align: center;
+    font-family: "Coiny";
+}
+h  .resources{
+     border-width:15px;
+    color:#011627;
+    background-color:#97DB4F;
+    float:left;
+    width:600px;
+    height:980px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+  .bleh{
+     border-width:15px;
+    color:#011627;
+  background-color:#97DB4F;
+    float:right;
+    width:600px;
+    height:980px;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+l     border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-left-style: solid;
+  }
+</style>
+
+</head>
+
+<body>
+t
+
+
+<h1> Child Asistance Services </h1>    
+
+    
+
+<ul>
+
+  <li><a href="homepage.html">Home</a></li>
+
+  <li><a href="infoabuse.html">What is abuse?</a></li>
+
+  <li><a href="Help.html">How do I help?</a></li>
+
+  <li><a href="questionstest.html">Questions</a></li>
+
+  <li><a href="Contact.html">Contact</a></li>
+
+  <li><a href="Disclaimer.html">Disclaimer</a></li>
+</ul
+
+    
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="http://1.bp.blogspot.com/-2pj2sYFb_No/VO_6UAfxJRI/AAAAAAAADoo/_dokhGkFhjY/s1600/cute-animal-dekstop-wallpaper-3147-wallpaper-computer-best.jpg" style="width:100%">
+  <img class="mySlides" src="http://2.bp.blogspot.com/-T5kqWdFlMOc/UT2nUjplytI/AAAAAAAAH_4/tyZtroEd16I/s1600/funny+cute+animals-2013-00.jpg" style="width:100%">
+  <img class="mySlides" src="http://4.bp.blogspot.com/-N0Mp-4V6xZM/UH_3rmZuNFI/AAAAAAAAlDI/wJNY9bNywGI/s1600/Cute+Animal+Pics+(10).jpg" style="width:100%">
+</div>
+<div class="title">
+  <h1>Resources!</h1>
+  <div class="resources">
+    <h2>Resources</h2>
+    <p><b>Childhelp.org</b></p> 
+    <p> 800-422-4453</p>
+    <p><b>Darkness to Light</b></p>
+    <p>866-799-7233</p>
+    <p><b>National Parent Helpline</b></p>
+    <p>855-427-2736</p>
+    <p><b>Child Find of America</b></p>
+    <p>800-426-5678</p>
+    <p><b>National Center for Missing and Exploited Children</b></p>
+    <p>800-843-5678</p>
+    <p><b>Rape, Abuse, and Incest National Network</b></p>
+    <p>800-656-4673</p>
+    <p><b>Centinela Youth Services</b></p>
+    <p>310-970-7702</p>
+    <p><b>National Child Abuse Hotline</b></p>
+    <p>800-422-4453</p>
+    <p><b>El Nido Family Centers</b></p>
+    <p>818-830-3646</p>
+  </div>
+  <div class="bleh">
+    <h2> Statistics </h2>
+    <img src="chart (1).png" alt="Reported Types of abuse " style="width:500px;height:408px;">
+  <p>"Every child is innocent save them from the fear."</p>
+  <img src="Baby-Feet-1-Web.png" alt="loving support" style="width:250px;height:308px;">
+  
+  </div>
+  </div>
+  
+<script>
+var myIndex = 0;
+carousel();
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+
+
+   
+
+</body> 
+
+</html>
