@@ -61,8 +61,8 @@ h1 {
     float:left;
     width:600px;
     height:980px;
-t    text-align:center;
-    margin:10px;
+   text-align:center;
+   margin:10px;
     padding:10px;
      border-top-style: dotted;
     border-bottom-style: dotted;
@@ -72,7 +72,7 @@ t    text-align:center;
   .bleh{
      border-width:15px;
     color:#011627;
-    background-color:#97DB4F;
+  background-color:#97DB4F;
     float:right;
     width:600px;
     height:980px;
@@ -104,7 +104,7 @@ t    text-align:center;
 
   <li><a href="Help.html">How do I help?</a></li>
 
-  <li><a href="questions.html">Questions</a></li>
+  <li><a href="questionstest.html">Questions</a></li>
 
   <li><a href="Contact.html">Contact</a></li>
 
