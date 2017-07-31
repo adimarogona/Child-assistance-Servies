@@ -4,7 +4,7 @@
 <html>
 
 <head>
-<body style="background: linear-gradient(#e6e6e6, #FF3366);">
+
 <title>Child Assistance Services</title>
 
 
@@ -60,7 +60,7 @@ h1 {
     background-color:#97DB4F;
     float:left;
     width:600px;
-    height:1000px;
+    height:980px;
     text-align:center;
     margin:10px;
     padding:10px;
@@ -75,7 +75,7 @@ h1 {
     background-color:#97DB4F;
     float:right;
     width:600px;
-    height:760px;
+    height:980px;
     text-align:center;
     margin:10px;
     padding:10px;
