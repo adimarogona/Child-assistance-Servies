@@ -79,7 +79,7 @@ h  .resources{
     text-align:center;
     margin:10px;
     padding:10px;
-l     border-top-style: dotted;
+l   border-top-style: dotted;
     border-bottom-style: dotted;
     border-right-style: solid;
     border-left-style: solid;
